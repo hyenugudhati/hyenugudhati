@@ -8,7 +8,7 @@ I am a Data Engineer who loves collecting and analyzing data using advanced tech
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [hyenugudhati@gmail.com](mailto:hyenugudhati@gmail.com)
-* 🧠  I'm learning Spark and Scala
+* 🧠  I'm an expert Data Engineer.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Lebron James, Strive for Greatness
 
